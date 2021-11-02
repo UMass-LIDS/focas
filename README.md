@@ -3,7 +3,7 @@
 by Lingdong Wang, Mohammad Hajiesmaili, Ramesh K. Sitaraman
 
 ![avatar](figures/teaser.png)
-
+Paper Link: [https://dl.acm.org/doi/abs/10.1145/3474085.3475673](https://dl.acm.org/doi/abs/10.1145/3474085.3475673)
 
 ## Overview
 This is the official implementation of FOCAS in [PyTorch](http://pytorch.org/). 
