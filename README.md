@@ -42,7 +42,7 @@ vimeo_septuplet/
 
 In the inference phase, FOCAS is evaluated with HD videos from [HD_UHD_Eyetracking_Videos](https://web.archive.org/web/20210224171150/http://ivc.univ-nantes.fr/en/databases/HD_UHD_Eyetracking_Videos/).
 We provide a script dataset/download_hd.sh to download and organize this dataset as following. 
-You can also download the dataset via [Dropbox] (https://www.dropbox.com/s/f7gj0c5sxfe34ap/UD_UHD_EyeTracking_Videos.tar.gz?dl=0) (44.6GB).
+You can also download the dataset via [Dropbox](https://www.dropbox.com/s/f7gj0c5sxfe34ap/UD_UHD_EyeTracking_Videos.tar.gz?dl=0) (44.6GB).
 The HD_UHD_Eyetracking_Videos/ folder is be used as the dataset path.
 
 ```
